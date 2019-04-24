@@ -66,5 +66,12 @@ array with the interval's id to delete.
 ```
 ![Add Interval](https://psdadev.com/TestTask/img/10.png)
 
+## Using Online   
+Also you can use Test Task online on the following url [Test Task Online](https://psdadev.com/TestTask/) and API url's   
 
+**To Create Interval** `https://psdadev.com/TestTask/API/interval/create.php`   
+**To Delete Interval** `https://psdadev.com/TestTask/API/interval/delete.php`   
+**To Update Interval** `https://psdadev.com/TestTask/API/interval/update.php`   
+
+Thank you for following my work and I really appreciate any suggestion.
 
